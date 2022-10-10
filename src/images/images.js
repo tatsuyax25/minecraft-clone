@@ -4,12 +4,10 @@ import glassImg from './glass.jpg';
 import logImg from './log.jpg';
 import woodImg from './wood.jpg';
 
-const images = {
+export {
     dirtImg,
     grassImg,
     glassImg,
     woodImg,
     logImg,
 }
-
-export default images
